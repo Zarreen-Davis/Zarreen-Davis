@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing my knowledge further with projects !
 - 💻 I have some working knowledge of Python, HTML, CSS & Javascript, Ruby and C++
 - 🎉 I’m particularly interested in Python and HTML, CSS & Javascript
-- 😄 Pronouns: She/Her 
+- 💖 Pronouns: She/Her 
 - ⚡ Fun fact: Anime is life 😙✌🏾
 
 
